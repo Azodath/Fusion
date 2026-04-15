@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Netflix",
+    "videoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services%20(Video)/Netflix.mp4",
+    "logoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Netflix.jpg"
+  },
+  {
+    "title": "Prime Video",
+    "videoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services%20(Video)/Prime%20Video.mp4",
+    "logoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Prime%20Video.jpg"
+  },
+  {
+    "title": "Apple TV+",
+    "videoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services%20(Video)/Apple%20TV%2B.mp4",
+    "logoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Apple%20TV%2B.jpg"
+  },
+  {
+    "title": "Disney+",
+    "videoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services%20(Video)/Disney%2B.mp4",
+    "logoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Disney%2B.jpg"
+  },
+  {
+    "title": "HBO Max",
+    "videoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services%20(Video)/HBO%20Max.mp4",
+    "logoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/HBO%20Max.png"
+  },
+  {
+    "title": "Paramount+",
+    "videoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services%20(Video)/Paramount%2B.mp4",
+    "logoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Paramount%2B.jpg"
+  },
+  {
+    "title": "Hulu",
+    "videoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services%20(Video)/Hulu.mp4",
+    "logoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Hulu.jpg"
+  }
+]
