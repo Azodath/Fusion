@@ -33,5 +33,10 @@
     "title": "Hulu",
     "videoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services%20(Video)/Hulu.mp4",
     "logoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Hulu.jpg"
+  },
+  {
+    "title": "Crunchyroll",
+    "videoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services%20(Video)/Crunchyroll.mp4",
+    "logoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Crunchyroll.jpg"
   }
 ]
