@@ -109,8 +109,8 @@
               "hideTitle" : false,
               "id" : "F06CF733-9EB7-4934-84F5-C2B5946D45D4",
               "imageAspect" : "wide",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Streaming%20Services\/Apple%20TV%2B.jpg",
-              "title" : "Apple TV+"
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Streaming%20Services\/Apple%20TV.jpg",
+              "title" : "Apple TV"
             },
             {
               "dataSources" : [
@@ -548,7 +548,7 @@
               "id" : "8C553BD2-291B-4B0C-B66D-C58DD2D00C6B",
               "imageAspect" : "wide",
               "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Genres\/Westerns.png",
-              "title" : "Western"
+              "title" : "Westerns"
             },
             {
               "dataSources" : [
@@ -674,7 +674,7 @@
               "id" : "5A3B8FB9-DEB3-49A1-BD5A-153D06D4923D",
               "imageAspect" : "wide",
               "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Genres\/Reality.png",
-              "title" : "Reality Shows"
+              "title" : "Reality"
             }
           ]
         }
