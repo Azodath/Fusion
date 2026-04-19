@@ -2,7 +2,8 @@
   {
     "title": "Netflix",
     "videoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services%20(Video)/Netflix.mp4",
-    "backgroundURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Netflix.jpg"
+    "backgroundURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Netflix.jpg",
+    "logoURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/Netflix"
   },
   {
     "title": "Disney+",
