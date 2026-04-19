@@ -741,6 +741,174 @@
                 {
                   "kind" : "traktList",
                   "payload" : {
+                    "listName" : "Popular 1970s Movies",
+                    "listSlug" : "popular-1970s-movies",
+                    "traktId" : 33756166,
+                    "username" : "Azodath"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "992DE1AF-693A-42BA-98DC-211286A3F8C8",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Decades\/1970s.png",
+              "title" : "1970s"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular 1980s Movies",
+                    "listSlug" : "popular-1980s-movies",
+                    "traktId" : 33756175,
+                    "username" : "Azodath"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "C224BB60-50D4-4475-B5C0-F942D32DAB2E",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Decades\/1980s.png",
+              "title" : "1980s"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular 1990s Movies",
+                    "listSlug" : "popular-1990s-movies",
+                    "traktId" : 33756181,
+                    "username" : "Azodath"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "A6B6B610-98EE-4701-B494-EE4C75652C9E",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Decades\/1990s.png",
+              "title" : "1990s"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular 2000s Movies",
+                    "listSlug" : "popular-2000s-movies",
+                    "traktId" : 33756193,
+                    "username" : "Azodath"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "E2AE92A5-B33A-48D5-BCDE-93B32327BB92",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Decades\/2000s.png",
+              "title" : "2000s"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular 2010s Movies",
+                    "listSlug" : "popular-2010s-movies",
+                    "traktId" : 33756200,
+                    "username" : "Azodath"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "87B20BD0-288E-4DC7-8CF6-A0967C22BCFD",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Decades\/2010s.png",
+              "title" : "2010s"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular 2020s Movies",
+                    "listSlug" : "popular-2020s-movies",
+                    "traktId" : 33756203,
+                    "username" : "Azodath"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "51DD662F-43C8-417D-ABF0-B2ECE9E5D1B3",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Decades\/2020s.png",
+              "title" : "2020s"
+            }
+          ]
+        }
+      },
+      "id" : "collection.42B473F1-3DD9-491F-9D92-CE779565C392",
+      "title" : "Decades",
+      "type" : "collection.row"
+    },
+    {
+      "cacheTTL" : 3600,
+      "dataSource" : {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Latest Movies",
+          "listSlug" : "latest-movies",
+          "traktId" : 33807504,
+          "username" : "Azodath"
+        }
+      },
+      "id" : "trakt.49BB692E-FA6D-4334-B977-6660BE494062",
+      "limit" : 50,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "Latest Movies",
+      "type" : "row.classic"
+    },
+    {
+      "cacheTTL" : 3600,
+      "dataSource" : {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Latest Shows",
+          "listSlug" : "latest-shows",
+          "traktId" : 33788749,
+          "username" : "Azodath"
+        }
+      },
+      "id" : "trakt.B741794D-D36F-499E-99E9-2C4C9F0D16C6",
+      "limit" : 50,
+      "presentation" : {
+        "aspectRatio" : "poster",
+        "badges" : {
+          "providers" : false,
+          "ratings" : true
+        },
+        "cardStyle" : "medium"
+      },
+      "title" : "Latest Shows",
+      "type" : "row.classic"
+    },
+    {
+      "dataSource" : {
+        "kind" : "collection",
+        "payload" : {
+          "items" : [
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
                     "listName" : "IMDb: Top Rated Movies",
                     "listSlug" : "imdb-top-rated-movies",
                     "traktId" : 33755384,
@@ -1020,174 +1188,6 @@
       },
       "id" : "collection.BA31CEA0-435A-495F-9F78-4488715F51A0",
       "title" : "Collections",
-      "type" : "collection.row"
-    },
-    {
-      "cacheTTL" : 3600,
-      "dataSource" : {
-        "kind" : "traktList",
-        "payload" : {
-          "listName" : "Latest Movies",
-          "listSlug" : "latest-movies",
-          "traktId" : 33807504,
-          "username" : "Azodath"
-        }
-      },
-      "id" : "trakt.49BB692E-FA6D-4334-B977-6660BE494062",
-      "limit" : 50,
-      "presentation" : {
-        "aspectRatio" : "poster",
-        "badges" : {
-          "providers" : false,
-          "ratings" : true
-        },
-        "cardStyle" : "medium"
-      },
-      "title" : "Latest Movies",
-      "type" : "row.classic"
-    },
-    {
-      "cacheTTL" : 3600,
-      "dataSource" : {
-        "kind" : "traktList",
-        "payload" : {
-          "listName" : "Latest Shows",
-          "listSlug" : "latest-shows",
-          "traktId" : 33788749,
-          "username" : "Azodath"
-        }
-      },
-      "id" : "trakt.B741794D-D36F-499E-99E9-2C4C9F0D16C6",
-      "limit" : 50,
-      "presentation" : {
-        "aspectRatio" : "poster",
-        "badges" : {
-          "providers" : false,
-          "ratings" : true
-        },
-        "cardStyle" : "medium"
-      },
-      "title" : "Latest Shows",
-      "type" : "row.classic"
-    },
-    {
-      "dataSource" : {
-        "kind" : "collection",
-        "payload" : {
-          "items" : [
-            {
-              "dataSources" : [
-                {
-                  "kind" : "traktList",
-                  "payload" : {
-                    "listName" : "Popular 1970s Movies",
-                    "listSlug" : "popular-1970s-movies",
-                    "traktId" : 33756166,
-                    "username" : "Azodath"
-                  }
-                }
-              ],
-              "hideTitle" : false,
-              "id" : "992DE1AF-693A-42BA-98DC-211286A3F8C8",
-              "imageAspect" : "wide",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Decades\/1970.png",
-              "title" : "1970s"
-            },
-            {
-              "dataSources" : [
-                {
-                  "kind" : "traktList",
-                  "payload" : {
-                    "listName" : "Popular 1980s Movies",
-                    "listSlug" : "popular-1980s-movies",
-                    "traktId" : 33756175,
-                    "username" : "Azodath"
-                  }
-                }
-              ],
-              "hideTitle" : false,
-              "id" : "C224BB60-50D4-4475-B5C0-F942D32DAB2E",
-              "imageAspect" : "wide",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Decades\/1980.jpg",
-              "title" : "1980s"
-            },
-            {
-              "dataSources" : [
-                {
-                  "kind" : "traktList",
-                  "payload" : {
-                    "listName" : "Popular 1990s Movies",
-                    "listSlug" : "popular-1990s-movies",
-                    "traktId" : 33756181,
-                    "username" : "Azodath"
-                  }
-                }
-              ],
-              "hideTitle" : false,
-              "id" : "A6B6B610-98EE-4701-B494-EE4C75652C9E",
-              "imageAspect" : "wide",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Decades\/1990.jpg",
-              "title" : "1990s"
-            },
-            {
-              "dataSources" : [
-                {
-                  "kind" : "traktList",
-                  "payload" : {
-                    "listName" : "Popular 2000s Movies",
-                    "listSlug" : "popular-2000s-movies",
-                    "traktId" : 33756193,
-                    "username" : "Azodath"
-                  }
-                }
-              ],
-              "hideTitle" : false,
-              "id" : "E2AE92A5-B33A-48D5-BCDE-93B32327BB92",
-              "imageAspect" : "wide",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Decades\/2000.jpg",
-              "title" : "2000s"
-            },
-            {
-              "dataSources" : [
-                {
-                  "kind" : "traktList",
-                  "payload" : {
-                    "listName" : "Popular 2010s Movies",
-                    "listSlug" : "popular-2010s-movies",
-                    "traktId" : 33756200,
-                    "username" : "Azodath"
-                  }
-                }
-              ],
-              "hideTitle" : false,
-              "id" : "87B20BD0-288E-4DC7-8CF6-A0967C22BCFD",
-              "imageAspect" : "wide",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Decades\/2010.jpg",
-              "title" : "2010s"
-            },
-            {
-              "dataSources" : [
-                {
-                  "kind" : "traktList",
-                  "payload" : {
-                    "listName" : "Popular 2020s Movies",
-                    "listSlug" : "popular-2020s-movies",
-                    "traktId" : 33756203,
-                    "username" : "Azodath"
-                  }
-                }
-              ],
-              "hideTitle" : false,
-              "id" : "51DD662F-43C8-417D-ABF0-B2ECE9E5D1B3",
-              "imageAspect" : "wide",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Decades\/2020.jpg",
-              "title" : "2020s"
-            }
-          ]
-        }
-      },
-      "id" : "collection.42B473F1-3DD9-491F-9D92-CE779565C392",
-      "title" : "Decades",
       "type" : "collection.row"
     },
     {
