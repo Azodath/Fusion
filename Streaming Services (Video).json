@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Netflix",
+    "videoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services%20(Video)/Netflix.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Netflix.jpg",
+    "logoURL": "https://raw.githubusercontent.com/AncientFalcon88/logos.png/main/Netflix"
+  },
+  {
+    "title": "Disney+",
+    "videoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services%20(Video)/Disney%2B.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Disney%2B.jpg"
+  },
+  {
+    "title": "Prime Video",
+    "videoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services%20(Video)/Prime%20Video.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Prime%20Video.jpg"
+  },
+  {
+    "title": "Apple TV",
+    "videoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services%20(Video)/Apple%20TV.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Apple%20TV.jpg"
+  },
+  {
+    "title": "Crunchyroll",
+    "videoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services%20(Video)/Crunchyroll.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Crunchyroll.jpg"
+  },
+  {
+    "title": "HBO Max",
+    "videoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services%20(Video)/HBO%20Max.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/HBO%20Max.png"
+  },
+  {
+    "title": "Max",
+    "videoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services%20(Video)/Max.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Max.jpg"
+  },
+  {
+    "title": "Hulu",
+    "videoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services%20(Video)/Hulu.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Hulu.jpg"
+  },
+  {
+    "title": "Paramount+",
+    "videoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services%20(Video)/Paramount%2B.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Paramount%2B.jpg"
+  },
+  {
+    "title": "Peacock",
+    "videoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services%20(Video)/Peacock.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Peacock.jpg"
+  },
+  {
+    "title": "Discovery+",
+    "videoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services%20(Video)/Discovery%2B.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Discovery%2B.jpg"
+  },
+  {
+    "title": "BET+",
+    "videoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services%20(Video)/BET%2B.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/BET%2B.png"
+  },
+  {
+    "title": "Curiosity Stream",
+    "videoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services%20(Video)/Curiosity%20Stream.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Curiosity%20Stream.jpg"
+  },
+  {
+    "title": "SkyShowtime",
+    "videoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services%20(Video)/SkyShowtime.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/SkyShowtime.jpg"
+  },
+  {
+    "title": "STARZ",
+    "videoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services%20(Video)/STARZ.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/STARZ.jpg"
+  },
+  {
+    "title": "SHUDDER",
+    "videoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services%20(Video)/SHUDDER.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/SHUDDER.jpg"
+  },
+  {
+    "title": "MUBI",
+    "videoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services%20(Video)/MUBI.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/MUBI.jpg"
+  },
+  {
+    "title": "AMC+",
+    "videoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services%20(Video)/AMC%2B.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/AMC%2B.jpg"
+  }
+]
