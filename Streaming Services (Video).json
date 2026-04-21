@@ -67,7 +67,7 @@
   {
     "title": "Curiosity Stream",
     "videoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services%20(Video)/Curiosity%20Stream.mp4",
-    "backgroundURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Curiosity%20Stream.png"
+    "backgroundURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Curiosity%20Stream.jpg"
   },
   {
     "title": "SkyShowtime",
@@ -93,5 +93,20 @@
     "title": "AMC+",
     "videoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services%20(Video)/AMC%2B.mp4",
     "backgroundURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/AMC%2B.png"
+  },
+  {
+    "title": "The Criterion Channel",
+    "videoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services%20(Video)/The%20Criterion%20Channel.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/The%20Criterion%20Channel.png"
+  },
+  {
+    "title": "Netflix Kids",
+    "videoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services%20(Video)/Netflix%20Kids.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Netflix%20Kids.png"
+  },
+  {
+    "title": "britbox",
+    "videoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services%20(Video)/britbox.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/britbox.png"
   }
 ]
