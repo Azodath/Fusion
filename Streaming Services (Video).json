@@ -30,9 +30,9 @@
     "backgroundURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/HBO%20Max.png"
   },
   {
-    "title": "Max",
-    "videoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services%20(Video)/Max.mp4",
-    "backgroundURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Max.jpg"
+    "title": "Max Original",
+    "videoURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services%20(Video)/Max%20Original.mp4",
+    "backgroundURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Max%20Original.png"
   },
   {
     "title": "Hulu",
