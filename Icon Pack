@@ -1,0 +1,42 @@
+[
+  {
+    "name": "IMDb (IM)",
+    "url": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Ratings/IMDb.png"
+  },
+  {
+    "name": "Trakt (TR)",
+    "url": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Ratings/Trakt.png"
+  },
+  {
+    "name": "TMDb (TM)",
+    "url": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Ratings/TMDb.png"
+  },
+  {
+    "name": "Rotten Tomatoes Tomatometer (RT)",
+    "url": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Ratings/Rotten%20Tomatoes%20Tomatometer.png"
+  },
+  {
+    "name": "Rotten Tomatoes Popcornmeter (PC)",
+    "url": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Ratings/Rotten%20Tomatoes%20Popcornmeter.png"
+  },
+  {
+    "name": "Metacritic (MC)",
+    "url": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Ratings/Metacritic.png"
+  },
+  {
+    "name": "Letterboxd (LB)",
+    "url": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Ratings/Letterboxd.png"
+  },
+  {
+    "name": "RogerEbert (RE)",
+    "url": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Ratings/RogerEbert.png"
+  },
+  {
+    "name": "Anilist (AN)",
+    "url": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Ratings/AniList.png"
+  },
+  {
+    "name": "MyAnimeList (ML)",
+    "url": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Ratings/MyAnimeList.png"
+  }
+]
