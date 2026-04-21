@@ -12,12 +12,12 @@
     "url": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Ratings/TMDb.png"
   },
   {
-    "name": "Rotten Tomatoes Tomatometer (RT)",
-    "url": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Ratings/Rotten%20Tomatoes%20Tomatometer.png"
+    "name": "Rotten Tomatoes (RT)",
+    "url": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Ratings/Rotten%20Tomatoes.png"
   },
   {
-    "name": "Rotten Tomatoes Popcornmeter (PC)",
-    "url": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Ratings/Rotten%20Tomatoes%20Popcornmeter.png"
+    "name": "Popcornmeter (PC)",
+    "url": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Ratings/Popcornmeter.png"
   },
   {
     "name": "Metacritic (MC)",
