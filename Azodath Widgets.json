@@ -609,18 +609,18 @@
                 {
                   "kind" : "traktList",
                   "payload" : {
-                    "listName" : "Popular KDrama Movies",
-                    "listSlug" : "popular-kdrama-movies",
-                    "traktId" : 33756141,
+                    "listName" : "Popular K-Drama Movies",
+                    "listSlug" : "popular-k-drama-movies",
+                    "traktId" : 34525914,
                     "username" : "Azodath"
                   }
                 },
                 {
                   "kind" : "traktList",
                   "payload" : {
-                    "listName" : "Popular KDrama Shows",
-                    "listSlug" : "popular-kdrama-shows",
-                    "traktId" : 33756153,
+                    "listName" : "Popular K-Drama Shows",
+                    "listSlug" : "popular-k-drama-shows",
+                    "traktId" : 34525942,
                     "username" : "Azodath"
                   }
                 }
@@ -628,8 +628,8 @@
               "hideTitle" : false,
               "id" : "3719876A-A569-42F2-9A58-0E4BF247A254",
               "imageAspect" : "wide",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Genres\/KDrama.jpg",
-              "title" : "Korean Drama"
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Genres\/K-Drama.png",
+              "title" : "K-Drama"
             },
             {
               "dataSources" : [
