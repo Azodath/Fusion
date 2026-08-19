@@ -3,30 +3,6 @@
   "exportVersion" : 1,
   "widgets" : [
     {
-      "cacheTTL" : 3600,
-      "dataSource" : {
-        "kind" : "traktList",
-        "payload" : {
-          "listName" : "Airing This Week",
-          "listSlug" : "__calendar_my_shows__",
-          "traktId" : -100,
-          "username" : "__calendar__"
-        }
-      },
-      "id" : "trakt.ADDDC6CE-52AA-475C-AEE8-F91B855D32F3",
-      "limit" : 50,
-      "presentation" : {
-        "aspectRatio" : "poster",
-        "badges" : {
-          "providers" : false,
-          "ratings" : true
-        },
-        "cardStyle" : "medium"
-      },
-      "title" : "Airing This Week",
-      "type" : "row.classic"
-    },
-    {
       "dataSource" : {
         "kind" : "collection",
         "payload" : {
