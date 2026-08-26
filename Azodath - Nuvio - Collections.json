@@ -1,0 +1,1585 @@
+[
+  {
+    "id": "dbde2ea6-4c28-4b51-acd0-68757d409404",
+    "title": "Streaming",
+    "folders": [
+      {
+        "id": "a19d6dd0-2c75-456f-b6a6-3937b04db977",
+        "title": "Netflix",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144621",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144622",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Netflix.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144621"
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144622"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "97fd291d-f2f0-465e-80d6-736e9069374c",
+        "title": "Prime Videos",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144623",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144624",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Prime%20Video.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144623"
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144624"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "8e3630e1-f3ce-485f-b3b1-7f3e7edfde85",
+        "title": "Apple TV",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144625",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144626",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Apple%20TV.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144625"
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144626"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "b8b1ee25-1514-458a-bda5-37360a2db47f",
+        "title": "Disney+",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144627",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144628",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Disney%2B.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144627"
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144628"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "e6e505a2-a3c6-422b-ad49-febe64dfc3d1",
+        "title": "HBO Max",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144629",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144630",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/HBO%20Max.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144629"
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144630"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "05957465-16e8-4b84-a7df-99dd93b9b51a",
+        "title": "Paramount+",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144631",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144632",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Paramount%2B.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144631"
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144632"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "7bfce0cd-020c-4ac7-b6e8-15cf44833c90",
+        "title": "Hulu",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144633",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144635",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Hulu.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144633"
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144635"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "backdropImageUrl": null
+  },
+  {
+    "id": "6e03d608-533d-4453-82b6-ed9bfa280841",
+    "title": "Decades",
+    "folders": [
+      {
+        "id": "1852cff2-d00d-474b-a437-5fdc6b61437f",
+        "title": "2020s",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144682",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Decades%202/2020s.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144682"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "ff9d2021-529c-412e-a1aa-0a5edcb42940",
+        "title": "2010s",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144681",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Decades%202/2010s.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144681"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "8fb93fcc-acd8-42c4-9d6f-0e44f47adabf",
+        "title": "1990s",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144679",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Decades%202/1990s.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144679"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "5fbedc75-7e9a-4119-b996-9c4928d9b312",
+        "title": "1980s",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144677",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Decades%202/1980s.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144677"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "0ec3cddd-6a44-4527-96f1-e60cd1f7c3f3",
+        "title": "1970s",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144676",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Decades%202/1970s.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144676"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "backdropImageUrl": null
+  },
+  {
+    "id": "dc027ba9-6f50-4cb9-a899-be7e51814442",
+    "title": "Genre",
+    "folders": [
+      {
+        "id": "b6b4027a-710c-4c74-915f-caf4bf5a2389",
+        "title": "Action",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144640",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144643",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Genres/Action.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144640"
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144643"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "0605f554-3c34-4aec-9d5d-77fb6f92a41f",
+        "title": "Thriller",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144644",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144645",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Genres/Thriller.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144644"
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144645"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "b391567a-060c-43e8-b558-a36a4f3aac6f",
+        "title": "Sci-Fi",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144646",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144647",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Genres/Sci-Fi.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144646"
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144647"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "e0357bf9-56ba-4b6d-97a7-317a974071c9",
+        "title": "Fantasy",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.145739",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.145740",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Genres/Fantasy.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.145739"
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.145740"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "1035c289-a045-496a-a1dc-d76dfa7842cf",
+        "title": "Comedy",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144648",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144649",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Genres/Comedy.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144648"
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144649"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "27c38cca-04b1-4463-b6c8-d1afea2fe86e",
+        "title": "Drama",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144650",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144652",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Genres/Drama.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144650"
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144652"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "8ec70632-183a-4151-96a1-bc592a0311e9",
+        "title": "Romance",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144654",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144660",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Genres/Romance.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144654"
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144660"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "edf968d5-b63c-4a1a-958b-70be9867602e",
+        "title": "Horror",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144669",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144670",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Genres/Horror.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144669"
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144670"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "e88403c9-e9cb-4680-897d-93a63e7295e3",
+        "title": "War Stories",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144886",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144888",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Genres/War%20Stories.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144886"
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144888"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "96654e6f-53a1-434f-bac0-42237500e4d9",
+        "title": "Westerns",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144897",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144901",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Genres/Westerns.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144897"
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144901"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "ca432bb0-c3fd-48a6-a74b-a75d51470de6",
+        "title": "Anime",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.145346",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.145347",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Genres/Anime.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.145346"
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.145347"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "88a53b47-63e4-4734-8653-56c19d305dfb",
+        "title": "Animation",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144663",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144664",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Genres/Animation.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144663"
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144664"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "4f25593f-ea7b-4623-a4f1-baaf42a97921",
+        "title": "K-Drama",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.166857",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.166858",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Genres/K-Drama.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.166857"
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.166858"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "5e6dbce6-bd4a-4ba6-9bac-a5b43ab77dec",
+        "title": "Documentary",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144665",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144667",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Genres/Documentary.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144665"
+          },
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144667"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "42a352dd-ddcd-4d1f-ad03-993e7ba4282a",
+        "title": "Reality Shows",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144672",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Genres/Reality.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144672"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "backdropImageUrl": null
+  },
+  {
+    "id": "5037665d-095a-4867-9426-266dcdb55f21",
+    "title": "IMDb",
+    "folders": [
+      {
+        "id": "c9b23399-3c05-4445-bc0c-0a26ce2ec735",
+        "title": "IMDb: Top Rated Movies",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144616",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/IMDB/IMDB%20TMovies.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144616"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      },
+      {
+        "id": "b88dd5de-5422-46b2-a879-8d0e79ff49bc",
+        "title": "IMDb: Top Rated Shows",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "title": null,
+            "sortBy": null,
+            "tmdbId": null,
+            "addonId": "aio-metadata",
+            "filters": null,
+            "sortHow": null,
+            "provider": "addon",
+            "catalogId": "mdblist.144617",
+            "mediaType": null,
+            "traktListId": null,
+            "tmdbSourceType": null
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "landscape",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "heroVideoUrl": null,
+        "titleLogoUrl": null,
+        "coverImageUrl": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/IMDB/IMDB%20TShows.jpg",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": null,
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.144617"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": null
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "backdropImageUrl": null
+  }
+]
