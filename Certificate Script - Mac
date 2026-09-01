@@ -1,0 +1,47 @@
+(
+set -e
+
+DMG="$HOME/Downloads/Nuvio-macOS-arm64-0.1.21-alpha.dmg"
+APP="/Applications/Nuvio.app"
+EXPECTED="9acff93ef9642531da14fc104d44e553c73c256f96152e07c57bd25f9cfd484d"
+ACTUAL="$(shasum -a 256 "$DMG" | awk '{print $1}')"
+
+if [[ "$ACTUAL" != "$EXPECTED" ]]; then
+  echo "Checksum mismatch. Stopping."
+  exit 1
+fi
+
+if [[ -e "$APP" ]]; then
+  echo "$APP already exists. Remove the old copy first."
+  exit 1
+fi
+
+MOUNT="$(mktemp -d /tmp/nuvio-install.XXXXXX)"
+
+cleanup() {
+  hdiutil detach "$MOUNT" -quiet 2>/dev/null || true
+  rmdir "$MOUNT" 2>/dev/null || true
+}
+
+trap cleanup EXIT
+
+hdiutil attach "$DMG" -readonly -nobrowse -mountpoint "$MOUNT" >/dev/null
+ditto "$MOUNT/Nuvio.app" "$APP"
+
+while IFS= read -r -d '' ITEM; do
+  case "$(file -b "$ITEM")" in
+    *Mach-O*)
+      codesign --force --sign - "$ITEM"
+      ;;
+  esac
+done < <(find "$APP/Contents" -type f -print0)
+
+codesign --force --sign - "$APP/Contents/runtime"
+codesign --force --sign - "$APP"
+
+xattr -dr com.apple.quarantine "$APP" 2>/dev/null || true
+
+codesign --verify --deep --strict --verbose=2 "$APP"
+
+open "$APP"
+)
