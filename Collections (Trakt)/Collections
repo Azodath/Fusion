@@ -1,0 +1,297 @@
+{
+  "exportType" : "fusionWidgets",
+  "exportVersion" : 1,
+  "widgets" : [
+    {
+      "dataSource" : {
+        "kind" : "collection",
+        "payload" : {
+          "items" : [
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "IMDb: Top Rated Movies",
+                    "listSlug" : "imdb-top-rated-movies",
+                    "traktId" : 33755384,
+                    "username" : "Azodath"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "3FB69804-E88F-4A75-B78B-8BE7E7837A2C",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/IMDB\/IMDB%20TMovies.jpg",
+              "title" : "IMDb: Top Rated Movies "
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "IMDb: Top Rated Shows",
+                    "listSlug" : "imdb-top-rated-shows",
+                    "traktId" : 33755434,
+                    "username" : "Azodath"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "A5DA029D-02FC-438E-A7B3-626DC560337D",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/IMDB\/IMDB%20TShows.jpg",
+              "title" : "IMDb: Top Rated Shows"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Watchlist: Movies",
+                    "listSlug" : "__watchlist_movies__",
+                    "traktId" : -11,
+                    "username" : "__me__"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "61481341-A060-4046-92E0-6B8D3216F9DC",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Watchlist\/Watchlist%20Movies.png",
+              "title" : "Watchlist Movies"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Watchlist: Series",
+                    "listSlug" : "__watchlist_shows__",
+                    "traktId" : -12,
+                    "username" : "__me__"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "823346CC-26F4-45B5-B436-4B6D24C5AADB",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Watchlist\/Watchlist%20Shows.png",
+              "title" : "Watchlist Shows"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "MCU Movies",
+                    "listSlug" : "mcu-movies",
+                    "traktId" : 33756228,
+                    "username" : "Azodath"
+                  }
+                },
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "MCU Shows",
+                    "listSlug" : "mcu-shows",
+                    "traktId" : 33756236,
+                    "username" : "Azodath"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "C7CF739F-9DE1-48A0-AB33-69345031CC79",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/github.com\/Azodath\/Fusion\/raw\/refs\/heads\/main\/Collections\/Marvel.png",
+              "title" : "Marvel"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "The Lord of the Rings Collection",
+                    "listSlug" : "the-lord-of-the-rings-collection",
+                    "traktId" : 23,
+                    "username" : "Trakt"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "42A6D922-C6FC-4C3D-ACC6-FB889DE202BB",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/github.com\/Azodath\/Fusion\/raw\/refs\/heads\/main\/Collections\/The%20Lord%20of%20the%20Rings.jpg",
+              "title" : "The Lord of the Rings"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "The Hobbit Collection",
+                    "listSlug" : "the-hobbit-collection",
+                    "traktId" : 1384,
+                    "username" : "Trakt"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "12CF7DA0-272D-45D1-868E-91C729F8C345",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/github.com\/Azodath\/Fusion\/raw\/refs\/heads\/main\/Collections\/The%20Hobbit.jpg",
+              "title" : "The Hobbit"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Back to the Future Collection",
+                    "listSlug" : "back-to-the-future-collection",
+                    "traktId" : 21,
+                    "username" : "Trakt"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "D0F02707-8D0C-4C4D-8C31-16BBA0A09416",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Collections\/Back%20to%20the%20Future.jpg",
+              "title" : "Back to the Future"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "The Dark Knight Collection",
+                    "listSlug" : "the-dark-knight-collection",
+                    "traktId" : 29,
+                    "username" : "Trakt"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "F917F1B1-4198-460A-B87E-60516E284F2B",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Collections\/The%20Dark%20Knight.jpg",
+              "title" : "The Dark Knight"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Harry Potter Collection",
+                    "listSlug" : "harry-potter-collection",
+                    "traktId" : 84,
+                    "username" : "Trakt"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "6ACC2DBB-1992-4E1B-9D1F-337106A48B0C",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/github.com\/Azodath\/Fusion\/raw\/refs\/heads\/main\/Collections\/Harry%20Potter.jpg",
+              "title" : "Harry Potter"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "The Mummy Collection",
+                    "listSlug" : "the-mummy-collection",
+                    "traktId" : 71,
+                    "username" : "Trakt"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "9362055F-195E-416A-A0D0-3A0140B60A9D",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Collections\/The%20Mummy.jpg",
+              "title" : "The Mummy"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Pirates of the Caribbean Collection",
+                    "listSlug" : "pirates-of-the-caribbean-collection",
+                    "traktId" : 10,
+                    "username" : "Trakt"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "6F45D16A-4C46-4182-AC52-60A549986AA1",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Collections\/Pirates%20of%20the%20Caribbean.jpg",
+              "title" : "Pirates of the Caribbean"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Transformers Collection",
+                    "listSlug" : "transformers-collection",
+                    "traktId" : 176,
+                    "username" : "Trakt"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "02A9ACB3-1257-4E86-ABFF-0F4A234B23D1",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Collections\/Transformers.jpg",
+              "title" : "Transformers"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Star Wars Collection",
+                    "listSlug" : "star-wars-collection",
+                    "traktId" : 6,
+                    "username" : "Trakt"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "CAF4E521-DE6F-420C-8080-6E9905311CD5",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/github.com\/Azodath\/Fusion\/raw\/refs\/heads\/main\/Collections\/Star%20Wars.jpg",
+              "title" : "Star Wars"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "The Godfather Collection",
+                    "listSlug" : "the-godfather-collection",
+                    "traktId" : 38,
+                    "username" : "Trakt"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "6F4C7DC4-219C-4094-A132-B49DA4C14A38",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Collections\/The%20Godfather.jpg",
+              "title" : "Godfather"
+            }
+          ]
+        }
+      },
+      "id" : "collection.BA31CEA0-435A-495F-9F78-4488715F51A0",
+      "title" : "Collections",
+      "type" : "collection.row"
+    }
+  ]
+}
