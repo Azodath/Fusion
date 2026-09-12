@@ -48,42 +48,6 @@
                 {
                   "kind" : "traktList",
                   "payload" : {
-                    "listName" : "Watchlist: Movies",
-                    "listSlug" : "__watchlist_movies__",
-                    "traktId" : -11,
-                    "username" : "__me__"
-                  }
-                }
-              ],
-              "hideTitle" : false,
-              "id" : "61481341-A060-4046-92E0-6B8D3216F9DC",
-              "imageAspect" : "wide",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Watchlist\/Watchlist%20Movies.png",
-              "title" : "Watchlist Movies"
-            },
-            {
-              "dataSources" : [
-                {
-                  "kind" : "traktList",
-                  "payload" : {
-                    "listName" : "Watchlist: Series",
-                    "listSlug" : "__watchlist_shows__",
-                    "traktId" : -12,
-                    "username" : "__me__"
-                  }
-                }
-              ],
-              "hideTitle" : false,
-              "id" : "823346CC-26F4-45B5-B436-4B6D24C5AADB",
-              "imageAspect" : "wide",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Watchlist\/Watchlist%20Shows.png",
-              "title" : "Watchlist Shows"
-            },
-            {
-              "dataSources" : [
-                {
-                  "kind" : "traktList",
-                  "payload" : {
                     "listName" : "MCU Movies",
                     "listSlug" : "mcu-movies",
                     "traktId" : 33756228,
