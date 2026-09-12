@@ -1,0 +1,207 @@
+{
+  "exportType" : "fusionWidgets",
+  "exportVersion" : 1,
+  "widgets" : [
+    {
+      "dataSource" : {
+        "kind" : "collection",
+        "payload" : {
+          "items" : [
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Top Netflix Movies",
+                    "listSlug" : "top-netflix-movies",
+                    "traktId" : 33755527,
+                    "username" : "Azodath"
+                  }
+                },
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Top Netflix Shows",
+                    "listSlug" : "top-netflix-shows",
+                    "traktId" : 33755540,
+                    "username" : "Azodath"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "6C9777C8-6D3A-472A-9427-114F3D4A84FD",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Streaming%20Services\/Netflix.jpg",
+              "title" : "Netflix"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Top Amazon Prime Movies",
+                    "listSlug" : "top-amazon-prime-movies",
+                    "traktId" : 33755573,
+                    "username" : "Azodath"
+                  }
+                },
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Top Amazon Prime Shows",
+                    "listSlug" : "top-amazon-prime-shows",
+                    "traktId" : 33755592,
+                    "username" : "Azodath"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "E6D93C85-EB30-494A-8DEC-83D236968090",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Streaming%20Services\/Prime%20Video.jpg",
+              "title" : "Prime Video"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Top Apple TV+ Movies",
+                    "listSlug" : "top-apple-tv-movies",
+                    "traktId" : 33755626,
+                    "username" : "Azodath"
+                  }
+                },
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Top Apple TV+ Shows",
+                    "listSlug" : "top-apple-tv-shows",
+                    "traktId" : 33755637,
+                    "username" : "Azodath"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "F06CF733-9EB7-4934-84F5-C2B5946D45D4",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Streaming%20Services\/Apple%20TV.jpg",
+              "title" : "Apple TV"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Top Disney+ Movies",
+                    "listSlug" : "top-disney-movies",
+                    "traktId" : 33755647,
+                    "username" : "Azodath"
+                  }
+                },
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Top Disney+ Shows",
+                    "listSlug" : "top-disney-shows",
+                    "traktId" : 33755656,
+                    "username" : "Azodath"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "119372D9-1394-4A0D-BD7B-6BB316AA5FBB",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Streaming%20Services\/Disney%2B.jpg",
+              "title" : "Disney+"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Top HBO Max Movies",
+                    "listSlug" : "top-hbo-max-movies",
+                    "traktId" : 33755671,
+                    "username" : "Azodath"
+                  }
+                },
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Top HBO Max Shows",
+                    "listSlug" : "top-hbo-max-shows",
+                    "traktId" : 33755676,
+                    "username" : "Azodath"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "752DDE4A-0460-40BE-BEA7-0B8136FA4BF7",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Streaming%20Services\/HBO%20Max.png",
+              "title" : "HBO Max"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Top Paramount+ Movies",
+                    "listSlug" : "top-paramount-movies",
+                    "traktId" : 33755685,
+                    "username" : "Azodath"
+                  }
+                },
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Top Paramount+ Shows",
+                    "listSlug" : "top-paramount-shows",
+                    "traktId" : 33755693,
+                    "username" : "Azodath"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "02F34548-EB0C-4004-8A3F-EBA362766527",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Streaming%20Services\/Paramount%2B.jpg",
+              "title" : "Paramount+"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Top Hulu Movies",
+                    "listSlug" : "top-hulu-movies",
+                    "traktId" : 33755699,
+                    "username" : "Azodath"
+                  }
+                },
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Top Hulu Shows",
+                    "listSlug" : "top-hulu-shows",
+                    "traktId" : 33755713,
+                    "username" : "Azodath"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "C1A9BF6F-724F-4010-AEEF-A7930DB88F09",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Streaming%20Services\/Hulu.jpg",
+              "title" : "Hulu"
+            }
+          ]
+        }
+      },
+      "id" : "collection.7F8178A3-472D-4C8A-819C-04C560D92218",
+      "title" : "Streaming Services",
+      "type" : "collection.row"
+    }
+  ]
+}
