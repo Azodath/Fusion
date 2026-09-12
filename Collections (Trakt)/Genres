@@ -1,0 +1,414 @@
+{
+  "exportType" : "fusionWidgets",
+  "exportVersion" : 1,
+  "widgets" : [
+    {
+      "dataSource" : {
+        "kind" : "collection",
+        "payload" : {
+          "items" : [
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular Action Movies",
+                    "listSlug" : "popular-action-movies",
+                    "traktId" : 33755757,
+                    "username" : "Azodath"
+                  }
+                },
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular Action Shows",
+                    "listSlug" : "popular-action-shows",
+                    "traktId" : 33755771,
+                    "username" : "Azodath"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "AFEA10D2-FD3E-4F6A-BB7C-A6F5CFBFD042",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Genres\/Action.png",
+              "title" : "Action"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular Thriller Movies",
+                    "listSlug" : "popular-thriller-movies",
+                    "traktId" : 33755837,
+                    "username" : "Azodath"
+                  }
+                },
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular Thriller Shows",
+                    "listSlug" : "popular-thriller-shows",
+                    "traktId" : 33755838,
+                    "username" : "Azodath"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "AA1967EE-FB92-4B48-90E7-DE044556D2F5",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Genres\/Thriller.png",
+              "title" : "Thriller"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular Sci-Fi Movies",
+                    "listSlug" : "popular-sci-fi-movies",
+                    "traktId" : 33755847,
+                    "username" : "Azodath"
+                  }
+                },
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular Sci-Fi Shows",
+                    "listSlug" : "popular-sci-fi-shows",
+                    "traktId" : 33755854,
+                    "username" : "Azodath"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "EB6C5B2B-6440-4EC9-B10E-47752B8AE5EF",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Genres\/Sci-Fi.png",
+              "title" : "Sci-Fi"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular Fantasy Movies",
+                    "listSlug" : "popular-fantasy-movies",
+                    "traktId" : 33791302,
+                    "username" : "Azodath"
+                  }
+                },
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular Fantasy Shows",
+                    "listSlug" : "popular-fantasy-shows",
+                    "traktId" : 33791399,
+                    "username" : "Azodath"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "23164D39-8B15-44D2-BDEE-1AF664FD0424",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Genres\/Fantasy.png",
+              "title" : "Fantasy"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular Comedy Movies",
+                    "listSlug" : "popular-comedy-movies",
+                    "traktId" : 33755883,
+                    "username" : "Azodath"
+                  }
+                },
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular Comedy Shows",
+                    "listSlug" : "popular-comedy-shows",
+                    "traktId" : 33755892,
+                    "username" : "Azodath"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "ADD945A8-DE2E-401C-A3C0-8FC714858253",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Genres\/Comedy.png",
+              "title" : "Comedy"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular Drama Movies",
+                    "listSlug" : "popular-drama-movies",
+                    "traktId" : 33755913,
+                    "username" : "Azodath"
+                  }
+                },
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular Drama Shows",
+                    "listSlug" : "popular-drama-shows",
+                    "traktId" : 33755924,
+                    "username" : "Azodath"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "CBBBCA8C-3559-4045-A796-86842566899E",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Genres\/Drama.png",
+              "title" : "Drama"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular Romance Movies",
+                    "listSlug" : "popular-romance-movies",
+                    "traktId" : 33755948,
+                    "username" : "Azodath"
+                  }
+                },
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular Romance Shows",
+                    "listSlug" : "popular-romance-shows",
+                    "traktId" : 33755998,
+                    "username" : "Azodath"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "7DE148F0-75F5-4540-B27A-39D37410C771",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Genres\/Romance.png",
+              "title" : "Romance"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular Horror Movies",
+                    "listSlug" : "popular-horror-movies",
+                    "traktId" : 33756115,
+                    "username" : "Azodath"
+                  }
+                },
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular Horror Shows",
+                    "listSlug" : "popular-horror-shows",
+                    "traktId" : 33756118,
+                    "username" : "Azodath"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "590ABB6A-E51C-4E50-8903-5FDA5F86912E",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Genres\/Horror.png",
+              "title" : "Horror"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular War Movies",
+                    "listSlug" : "popular-war-movies",
+                    "traktId" : 33763443,
+                    "username" : "Azodath"
+                  }
+                },
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular War Shows",
+                    "listSlug" : "popular-war-shows",
+                    "traktId" : 33763475,
+                    "username" : "Azodath"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "6A5CC003-3A29-4190-99A0-7D24D67B5D1E",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Genres\/War%20Stories.png",
+              "title" : "War Stories"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular Western Movies",
+                    "listSlug" : "popular-western-movies",
+                    "traktId" : 33763730,
+                    "username" : "Azodath"
+                  }
+                },
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular Western Shows",
+                    "listSlug" : "popular-western-shows",
+                    "traktId" : 33763755,
+                    "username" : "Azodath"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "8C553BD2-291B-4B0C-B66D-C58DD2D00C6B",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Genres\/Westerns.png",
+              "title" : "Westerns"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular Anime Movies",
+                    "listSlug" : "popular-anime-movies-28fdeaab-b431-49e4-840f-7bcf2d6c90c9",
+                    "traktId" : 33781978,
+                    "username" : "Azodath"
+                  }
+                },
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular Anime Shows",
+                    "listSlug" : "popular-anime-shows-4f932cf1-a267-4ea0-a0ed-56bd3eee7854",
+                    "traktId" : 33781985,
+                    "username" : "Azodath"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "FE08E300-D052-46E6-B80D-22D5C2E84909",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Genres\/Anime.png",
+              "title" : "Anime"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular Animated Movies",
+                    "listSlug" : "popular-animated-movies",
+                    "traktId" : 33756007,
+                    "username" : "Azodath"
+                  }
+                },
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular Animated Shows",
+                    "listSlug" : "popular-animated-shows",
+                    "traktId" : 33756014,
+                    "username" : "Azodath"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "0906CC34-44C4-4011-8663-EA7A0787DF37",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Genres\/Animation.png",
+              "title" : "Animation"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular K-Drama Movies",
+                    "listSlug" : "popular-k-drama-movies",
+                    "traktId" : 34525914,
+                    "username" : "Azodath"
+                  }
+                },
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular K-Drama Shows",
+                    "listSlug" : "popular-k-drama-shows",
+                    "traktId" : 34525942,
+                    "username" : "Azodath"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "3719876A-A569-42F2-9A58-0E4BF247A254",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Genres\/K-Drama.png",
+              "title" : "K-Drama"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular Documentary Movies",
+                    "listSlug" : "popular-documentary-movies",
+                    "traktId" : 33756068,
+                    "username" : "Azodath"
+                  }
+                },
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular Documentary Shows",
+                    "listSlug" : "popular-documentary-shows",
+                    "traktId" : 33756087,
+                    "username" : "Azodath"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "411962B9-F031-4895-B1D1-A6F735B66CFD",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Genres\/Documentary.png",
+              "title" : "Documentary"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Popular Reality Shows",
+                    "listSlug" : "popular-reality-shows",
+                    "traktId" : 33756136,
+                    "username" : "Azodath"
+                  }
+                }
+              ],
+              "hideTitle" : false,
+              "id" : "5A3B8FB9-DEB3-49A1-BD5A-153D06D4923D",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Genres\/Reality.png",
+              "title" : "Reality"
+            }
+          ]
+        }
+      },
+      "id" : "collection.8ADDF43A-9B2A-48D4-82D6-93179385F4F5",
+      "title" : "Genres",
+      "type" : "collection.row"
+    }
+  ]
+}
