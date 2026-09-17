@@ -1,0 +1,2219 @@
+{
+  "exportType": "fusionWidgets",
+  "exportVersion": 1,
+  "requiredAddons": [],
+  "widgets": [
+    {
+      "id": "collection.7F8178A3-472D-4C8A-819C-04C560D92218",
+      "title": "Streaming Services",
+      "type": "collection.row",
+      "dataSource": {
+        "kind": "collection",
+        "payload": {
+          "items": [
+            {
+              "id": "6C9777C8-6D3A-472A-9427-114F3D4A84FD",
+              "title": "Netflix",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Netflix.jpg",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::mdblist.144621",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144621",
+                        "type": "movie",
+                        "name": "Top Netflix Movies",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 52,
+                          "url": "https://mdblist.com/lists/azodath/top-netflix-movies",
+                          "mediatype": "movie",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "series::mdblist.144622",
+                    "type": "series",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144622",
+                        "type": "series",
+                        "name": "Top Netflix Shows",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 48,
+                          "url": "https://mdblist.com/lists/azodath/top-netflix-shows",
+                          "mediatype": "show",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "E6D93C85-EB30-494A-8DEC-83D236968090",
+              "title": "Prime Video",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Prime%20Video.jpg",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::mdblist.144623",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144623",
+                        "type": "movie",
+                        "name": "Top Amazon Prime Movies",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 30,
+                          "url": "https://mdblist.com/lists/azodath/top-amazon-prime-movies",
+                          "mediatype": "movie",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "series::mdblist.144624",
+                    "type": "series",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144624",
+                        "type": "series",
+                        "name": "Top Amazon Prime Shows",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 22,
+                          "url": "https://mdblist.com/lists/azodath/top-amazon-prime-shows",
+                          "mediatype": "show",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "F06CF733-9EB7-4934-84F5-C2B5946D45D4",
+              "title": "Apple TV",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Apple%20TV.jpg",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::mdblist.144625",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144625",
+                        "type": "movie",
+                        "name": "Top Apple TV Movies",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 43,
+                          "url": "https://mdblist.com/lists/azodath/top-apple-tv-movies",
+                          "mediatype": "movie",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "series::mdblist.144626",
+                    "type": "series",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144626",
+                        "type": "series",
+                        "name": "Top Apple TV Shows",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 41,
+                          "url": "https://mdblist.com/lists/azodath/top-apple-tv-shows",
+                          "mediatype": "show",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "119372D9-1394-4A0D-BD7B-6BB316AA5FBB",
+              "title": "Disney+",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Disney%2B.jpg",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::mdblist.144627",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144627",
+                        "type": "movie",
+                        "name": "Top Disney+ Movies",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 48,
+                          "url": "https://mdblist.com/lists/azodath/top-disney-movies",
+                          "mediatype": "movie",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "series::mdblist.144628",
+                    "type": "series",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144628",
+                        "type": "series",
+                        "name": "Top Disney+ Shows",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 48,
+                          "url": "https://mdblist.com/lists/azodath/top-disney-shows",
+                          "mediatype": "show",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "752DDE4A-0460-40BE-BEA7-0B8136FA4BF7",
+              "title": "HBO Max",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/HBO%20Max.png",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::mdblist.144629",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144629",
+                        "type": "movie",
+                        "name": "Top HBO Max Movies",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 57,
+                          "url": "https://mdblist.com/lists/azodath/top-hbo-max-movies",
+                          "mediatype": "movie",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "series::mdblist.144630",
+                    "type": "series",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144630",
+                        "type": "series",
+                        "name": "Top HBO Max Shows",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 41,
+                          "url": "https://mdblist.com/lists/azodath/top-hbo-max-shows",
+                          "mediatype": "show",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "02F34548-EB0C-4004-8A3F-EBA362766527",
+              "title": "Paramount+",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Paramount%2B.jpg",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::mdblist.144631",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144631",
+                        "type": "movie",
+                        "name": "Top Paramount+ Movies",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 10,
+                          "url": "https://mdblist.com/lists/azodath/top-paramount-movies",
+                          "mediatype": "movie",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "series::mdblist.144632",
+                    "type": "series",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144632",
+                        "type": "series",
+                        "name": "Top Paramount+ Shows",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 9,
+                          "url": "https://mdblist.com/lists/azodath/top-paramount-shows",
+                          "mediatype": "show",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "C1A9BF6F-724F-4010-AEEF-A7930DB88F09",
+              "title": "Hulu",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Streaming%20Services/Hulu.jpg",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::mdblist.144633",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144633",
+                        "type": "movie",
+                        "name": "Top Hulu Movies",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 18,
+                          "url": "https://mdblist.com/lists/azodath/top-hulu-movies",
+                          "mediatype": "movie",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "series::mdblist.144635",
+                    "type": "series",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144635",
+                        "type": "series",
+                        "name": "Top Hulu Shows",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 16,
+                          "url": "https://mdblist.com/lists/azodath/top-hulu-shows",
+                          "mediatype": "show",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "collection.8ADDF43A-9B2A-48D4-82D6-93179385F4F5",
+      "title": "Genres",
+      "type": "collection.row",
+      "dataSource": {
+        "kind": "collection",
+        "payload": {
+          "items": [
+            {
+              "id": "AFEA10D2-FD3E-4F6A-BB7C-A6F5CFBFD042",
+              "title": "Action",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Genres/Action.png",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::mdblist.144640",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144640",
+                        "type": "movie",
+                        "name": "Popular Action Movies",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 500,
+                          "url": "https://mdblist.com/lists/azodath/popular-action-movies",
+                          "mediatype": "movie",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "series::mdblist.144643",
+                    "type": "series",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144643",
+                        "type": "series",
+                        "name": "Popular Action Shows",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 500,
+                          "url": "https://mdblist.com/lists/azodath/popular-action-shows",
+                          "mediatype": "show",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "AA1967EE-FB92-4B48-90E7-DE044556D2F5",
+              "title": "Thriller",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Genres/Thriller.png",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::mdblist.144644",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144644",
+                        "type": "movie",
+                        "name": "Popular Thriller Movies",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 500,
+                          "url": "https://mdblist.com/lists/azodath/popular-thriller-movies",
+                          "mediatype": "movie",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "series::mdblist.144645",
+                    "type": "series",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144645",
+                        "type": "series",
+                        "name": "Popular Thriller Shows",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 500,
+                          "url": "https://mdblist.com/lists/azodath/popular-thriller-shows",
+                          "mediatype": "show",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "EB6C5B2B-6440-4EC9-B10E-47752B8AE5EF",
+              "title": "Sci-Fi",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Genres/Sci-Fi.png",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::mdblist.144646",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144646",
+                        "type": "movie",
+                        "name": "Popular Sci-Fi Movies",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 500,
+                          "url": "https://mdblist.com/lists/azodath/popular-sci-fi-movies",
+                          "mediatype": "movie",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "series::mdblist.144647",
+                    "type": "series",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144647",
+                        "type": "series",
+                        "name": "Popular Sci-Fi Shows",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 500,
+                          "url": "https://mdblist.com/lists/azodath/popular-sci-fi-shows",
+                          "mediatype": "show",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "23164D39-8B15-44D2-BDEE-1AF664FD0424",
+              "title": "Fantasy",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Genres/Fantasy.png",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::mdblist.145739",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.145739",
+                        "type": "movie",
+                        "name": "Popular Fantasy Movies",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 500,
+                          "url": "https://mdblist.com/lists/azodath/popular-fantasy-movies",
+                          "mediatype": "movie",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "series::mdblist.145740",
+                    "type": "series",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.145740",
+                        "type": "series",
+                        "name": "Popular Fantasy Shows",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 408,
+                          "url": "https://mdblist.com/lists/azodath/popular-fantasy-shows",
+                          "mediatype": "show",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "ADD945A8-DE2E-401C-A3C0-8FC714858253",
+              "title": "Comedy",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Genres/Comedy.png",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::mdblist.144648",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144648",
+                        "type": "movie",
+                        "name": "Popular Comedy Movies",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 500,
+                          "url": "https://mdblist.com/lists/azodath/popular-comedy-movies",
+                          "mediatype": "movie",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "series::mdblist.144649",
+                    "type": "series",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144649",
+                        "type": "series",
+                        "name": "Popular Comedy Shows",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 500,
+                          "url": "https://mdblist.com/lists/azodath/popular-comedy-shows",
+                          "mediatype": "show",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "CBBBCA8C-3559-4045-A796-86842566899E",
+              "title": "Drama",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Genres/Drama.png",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::mdblist.144650",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144650",
+                        "type": "movie",
+                        "name": "Popular Drama Movies",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 500,
+                          "url": "https://mdblist.com/lists/azodath/popular-drama-movies",
+                          "mediatype": "movie",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "series::mdblist.144652",
+                    "type": "series",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144652",
+                        "type": "series",
+                        "name": "Popular Drama Shows",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 500,
+                          "url": "https://mdblist.com/lists/azodath/popular-drama-shows",
+                          "mediatype": "show",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "7DE148F0-75F5-4540-B27A-39D37410C771",
+              "title": "Romance",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Genres/Romance.png",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::mdblist.144654",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144654",
+                        "type": "movie",
+                        "name": "Popular Romance Movies",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 500,
+                          "url": "https://mdblist.com/lists/azodath/popular-romance-movies",
+                          "mediatype": "movie",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "series::mdblist.144660",
+                    "type": "series",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144660",
+                        "type": "series",
+                        "name": "Popular Romance Shows",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 485,
+                          "url": "https://mdblist.com/lists/azodath/popular-romance-shows",
+                          "mediatype": "show",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "590ABB6A-E51C-4E50-8903-5FDA5F86912E",
+              "title": "Horror",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Genres/Horror.png",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::mdblist.144669",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144669",
+                        "type": "movie",
+                        "name": "Popular Horror Movies",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 500,
+                          "url": "https://mdblist.com/lists/azodath/popular-horror-movies",
+                          "mediatype": "movie",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "series::mdblist.144670",
+                    "type": "series",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144670",
+                        "type": "series",
+                        "name": "Popular Horror Shows",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 279,
+                          "url": "https://mdblist.com/lists/azodath/popular-horror-shows",
+                          "mediatype": "show",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "6A5CC003-3A29-4190-99A0-7D24D67B5D1E",
+              "title": "War Stories",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Genres/War%20Stories.png",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::mdblist.144886",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144886",
+                        "type": "movie",
+                        "name": "Popular War Movies",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 500,
+                          "url": "https://mdblist.com/lists/azodath/popular-war-movies",
+                          "mediatype": "movie",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "series::mdblist.144888",
+                    "type": "series",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144888",
+                        "type": "series",
+                        "name": "Popular War Shows",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 224,
+                          "url": "https://mdblist.com/lists/azodath/popular-war-shows",
+                          "mediatype": "show",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "8C553BD2-291B-4B0C-B66D-C58DD2D00C6B",
+              "title": "Westerns",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Genres/Westerns.png",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::mdblist.144897",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144897",
+                        "type": "movie",
+                        "name": "Popular Western Movies",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 492,
+                          "url": "https://mdblist.com/lists/azodath/popular-western-movies",
+                          "mediatype": "movie",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "series::mdblist.144901",
+                    "type": "series",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144901",
+                        "type": "series",
+                        "name": "Popular Western Shows",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 103,
+                          "url": "https://mdblist.com/lists/azodath/popular-western-shows",
+                          "mediatype": "show",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "FE08E300-D052-46E6-B80D-22D5C2E84909",
+              "title": "Anime",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Genres/Anime.png",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::mdblist.145346",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.145346",
+                        "type": "movie",
+                        "name": "Popular Anime Movies",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 200,
+                          "url": "https://mdblist.com/lists/azodath/popular-anime-movies",
+                          "mediatype": "movie",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "series::mdblist.145347",
+                    "type": "series",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.145347",
+                        "type": "series",
+                        "name": "Popular Anime Shows",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 200,
+                          "url": "https://mdblist.com/lists/azodath/popular-anime-shows",
+                          "mediatype": "show",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "0906CC34-44C4-4011-8663-EA7A0787DF37",
+              "title": "Animation",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Genres/Animation.png",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::mdblist.144663",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144663",
+                        "type": "movie",
+                        "name": "Popular Animated Movies",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 500,
+                          "url": "https://mdblist.com/lists/azodath/popular-animated-movies",
+                          "mediatype": "movie",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "series::mdblist.144664",
+                    "type": "series",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144664",
+                        "type": "series",
+                        "name": "Popular Animated Shows",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 500,
+                          "url": "https://mdblist.com/lists/azodath/popular-animated-shows",
+                          "mediatype": "show",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "3719876A-A569-42F2-9A58-0E4BF247A254",
+              "title": "K-Drama",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Genres/K-Drama.png",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::mdblist.166857",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.166857",
+                        "type": "movie",
+                        "name": "Popular K-Drama Movies",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 409,
+                          "url": "https://mdblist.com/lists/azodath/popular-k-drama-movies",
+                          "mediatype": "movie",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "series::mdblist.166858",
+                    "type": "series",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.166858",
+                        "type": "series",
+                        "name": "Popular K-Drama Shows",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 500,
+                          "url": "https://mdblist.com/lists/azodath/popular-k-drama-shows",
+                          "mediatype": "show",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "411962B9-F031-4895-B1D1-A6F735B66CFD",
+              "title": "Documentary",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Genres/Documentary.png",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::mdblist.144665",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144665",
+                        "type": "movie",
+                        "name": "Popular Documentary Movies",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 500,
+                          "url": "https://mdblist.com/lists/azodath/popular-documentary-movies",
+                          "mediatype": "movie",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "series::mdblist.144667",
+                    "type": "series",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144667",
+                        "type": "series",
+                        "name": "Popular Documentary Shows",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 500,
+                          "url": "https://mdblist.com/lists/azodath/popular-documentary-shows",
+                          "mediatype": "show",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "5A3B8FB9-DEB3-49A1-BD5A-153D06D4923D",
+              "title": "Reality",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Genres/Reality.png",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "series::mdblist.144672",
+                    "type": "series",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144672",
+                        "type": "series",
+                        "name": "Popular Reality Shows",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 500,
+                          "url": "https://mdblist.com/lists/azodath/popular-reality-shows",
+                          "mediatype": "show",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "collection.42B473F1-3DD9-491F-9D92-CE779565C392",
+      "title": "Decades",
+      "type": "collection.row",
+      "dataSource": {
+        "kind": "collection",
+        "payload": {
+          "items": [
+            {
+              "id": "51DD662F-43C8-417D-ABF0-B2ECE9E5D1B3",
+              "title": "2020s",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Decades%202/2020s.jpg",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::mdblist.144682",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144682",
+                        "type": "movie",
+                        "name": "Popular 2020s Movies",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 256,
+                          "url": "https://mdblist.com/lists/azodath/popular-2020s-movies",
+                          "mediatype": "movie",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "87B20BD0-288E-4DC7-8CF6-A0967C22BCFD",
+              "title": "2010s",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Decades%202/2010s.jpg",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::mdblist.144681",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144681",
+                        "type": "movie",
+                        "name": "Popular 2010s Movies",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 610,
+                          "url": "https://mdblist.com/lists/azodath/popular-2010s-movies",
+                          "mediatype": "movie",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "E2AE92A5-B33A-48D5-BCDE-93B32327BB92",
+              "title": "2000s",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Decades%202/2000s.jpg",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::mdblist.144680",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144680",
+                        "type": "movie",
+                        "name": "Popular 2000s Movies",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 531,
+                          "url": "https://mdblist.com/lists/azodath/popular-2000s-movies",
+                          "mediatype": "movie",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "A6B6B610-98EE-4701-B494-EE4C75652C9E",
+              "title": "1990s",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Decades%202/1990s.jpg",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::mdblist.144679",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144679",
+                        "type": "movie",
+                        "name": "Popular 1990s Movies",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 372,
+                          "url": "https://mdblist.com/lists/azodath/popular-1990s-movies",
+                          "mediatype": "movie",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "C224BB60-50D4-4475-B5C0-F942D32DAB2E",
+              "title": "1980s",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Decades%202/1980s.jpg",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::mdblist.144677",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144677",
+                        "type": "movie",
+                        "name": "Popular 1980s Movies",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 235,
+                          "url": "https://mdblist.com/lists/azodath/popular-1980s-movies",
+                          "mediatype": "movie",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "992DE1AF-693A-42BA-98DC-211286A3F8C8",
+              "title": "1970s",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Decades%202/1970s.png",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::mdblist.144676",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144676",
+                        "type": "movie",
+                        "name": "Popular 1970s Movies",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 176,
+                          "url": "https://mdblist.com/lists/azodath/popular-1970s-movies",
+                          "mediatype": "movie",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "collection.BA31CEA0-435A-495F-9F78-4488715F51A0",
+      "title": "Collections",
+      "type": "collection.row",
+      "dataSource": {
+        "kind": "collection",
+        "payload": {
+          "items": [
+            {
+              "id": "3FB69804-E88F-4A75-B78B-8BE7E7837A2C",
+              "title": "IMDb: Top Rated Movies",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/IMDB/IMDB%20TMovies.jpg",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::mdblist.144616",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144616",
+                        "type": "movie",
+                        "name": "IMDb: Top Rated Movies",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 250,
+                          "url": "https://mdblist.com/lists/azodath/imdb-top-rated-movies",
+                          "mediatype": "movie",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "A5DA029D-02FC-438E-A7B3-626DC560337D",
+              "title": "IMDb: Top Rated Shows",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/IMDB/IMDB%20TShows.jpg",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "series::mdblist.144617",
+                    "type": "series",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144617",
+                        "type": "series",
+                        "name": "IMDb: Top Rated Shows",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 244,
+                          "url": "https://mdblist.com/lists/azodath/imdb-top-250-shows",
+                          "mediatype": "show",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "abe69b8c-1116-41be-a136-5b9f7da554fc",
+              "title": "Watchlist",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Watchlist/Watchlist.png",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "all::mdblist.watchlist",
+                    "type": "all",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.watchlist",
+                        "type": "all",
+                        "name": "Watchlist",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default"
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "C7CF739F-9DE1-48A0-AB33-69345031CC79",
+              "title": "Marvel",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://github.com/Azodath/Fusion/raw/refs/heads/main/Collections/Marvel.png",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::mdblist.144684",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144684",
+                        "type": "movie",
+                        "name": "MCU Movies",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 40,
+                          "url": "https://mdblist.com/lists/azodath/mcu-movies",
+                          "mediatype": "movie",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "series::mdblist.144685",
+                    "type": "series",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "mdblist.144685",
+                        "type": "series",
+                        "name": "MCU Shows",
+                        "source": "mdblist",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "sort": "default",
+                        "metadata": {
+                          "itemCount": 27,
+                          "url": "https://mdblist.com/lists/azodath/mcu-shows",
+                          "mediatype": "show",
+                          "author": "azodath"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "42A6D922-C6FC-4C3D-ACC6-FB889DE202BB",
+              "title": "The Lord of the Rings",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://github.com/Azodath/Fusion/raw/refs/heads/main/Collections/The%20Lord%20of%20the%20Rings.jpg",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::tmdb.collection.119",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "tmdb.collection.119",
+                        "type": "movie",
+                        "name": "The Lord of the Rings Collection",
+                        "source": "tmdb",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "metadata": {
+                          "description": "The Lord of the Rings trilogy consists of three epic fantasy films, based on the influential novels written by J. R. R. Tolkien, directed by Peter Jackson.",
+                          "itemCount": 3,
+                          "url": "https://www.themoviedb.org/collection/119",
+                          "listName": "The Lord of the Rings Collection",
+                          "listId": "119"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "12CF7DA0-272D-45D1-868E-91C729F8C345",
+              "title": "The Hobbit",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://github.com/Azodath/Fusion/raw/refs/heads/main/Collections/The%20Hobbit.jpg",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::tmdb.collection.121938",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "tmdb.collection.121938",
+                        "type": "movie",
+                        "name": "The Hobbit Collection",
+                        "source": "tmdb",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "metadata": {
+                          "description": "The Hobbit collection is a three-part epic fantasy-adventure film directed and produced by Peter Jackson and based on J. R. R. Tolkien's fantasy novel of the same name. The trilogy of films are set in Middle-earth 60 years before \"The Lord of the Rings\", and will act as a prequel to Jackson's The Lord of the Rings trilogy.",
+                          "itemCount": 3,
+                          "url": "https://www.themoviedb.org/collection/121938",
+                          "listName": "The Hobbit Collection",
+                          "listId": "121938"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "D0F02707-8D0C-4C4D-8C31-16BBA0A09416",
+              "title": "Back to the Future",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Collections/Back%20to%20the%20Future.jpg",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::tmdb.collection.264",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "tmdb.collection.264",
+                        "type": "movie",
+                        "name": "Back to the Future Collection",
+                        "source": "tmdb",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "metadata": {
+                          "description": "An American science fiction–comedy film series that follows the adventures of a high school student, Marty McFly and an eccentric scientist, Dr Emmett L. Brown as they use a DeLorean time machine to time travel to different periods in the history of Hill Valley, California.",
+                          "itemCount": 3,
+                          "url": "https://www.themoviedb.org/collection/264",
+                          "listName": "Back to the Future Collection",
+                          "listId": "264"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "F917F1B1-4198-460A-B87E-60516E284F2B",
+              "title": "The Dark Knight",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Collections/The%20Dark%20Knight.jpg",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::tmdb.collection.263",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "tmdb.collection.263",
+                        "type": "movie",
+                        "name": "The Dark Knight Collection",
+                        "source": "tmdb",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "metadata": {
+                          "description": "With minimal usage of CGI and a focus on character driven narratives, Christopher Nolan's dark, gritty portrayal of Bruce Wayne's transition into Batman and his struggles as Gotham's superhero set the precedent for modern superhero films.",
+                          "itemCount": 3,
+                          "url": "https://www.themoviedb.org/collection/263",
+                          "listName": "The Dark Knight Collection",
+                          "listId": "263"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "6ACC2DBB-1992-4E1B-9D1F-337106A48B0C",
+              "title": "Harry Potter",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://github.com/Azodath/Fusion/raw/refs/heads/main/Collections/Harry%20Potter.jpg",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::tmdb.collection.1241",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "tmdb.collection.1241",
+                        "type": "movie",
+                        "name": "Harry Potter Collection",
+                        "source": "tmdb",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "metadata": {
+                          "description": "The Harry Potter films are a fantasy series based on the series of seven Harry Potter novels by British writer J. K. Rowling.",
+                          "itemCount": 8,
+                          "url": "https://www.themoviedb.org/collection/1241",
+                          "listName": "Harry Potter Collection",
+                          "listId": "1241"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "9362055F-195E-416A-A0D0-3A0140B60A9D",
+              "title": "The Mummy",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Collections/The%20Mummy.jpg",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::tmdb.collection.1733",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "tmdb.collection.1733",
+                        "type": "movie",
+                        "name": "The Mummy Collection",
+                        "source": "tmdb",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "metadata": {
+                          "description": "The Mummy film series is a remake of The Mummy, loosely based on the original 1932 film. The first two films in the series were written and directed by Stephen Sommers.",
+                          "itemCount": 4,
+                          "url": "https://www.themoviedb.org/collection/1733",
+                          "listName": "The Mummy Collection",
+                          "listId": "1733"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "6F45D16A-4C46-4182-AC52-60A549986AA1",
+              "title": "Pirates of the Caribbean",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Collections/Pirates%20of%20the%20Caribbean.jpg",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::tmdb.collection.295",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "tmdb.collection.295",
+                        "type": "movie",
+                        "name": "Pirates of the Caribbean Collection",
+                        "source": "tmdb",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "metadata": {
+                          "description": "A series of fantasy swashbuckler films based on Walt Disney's theme park ride of the same name. The films follow the adventures of Captain Jack Sparrow and take place in a world ruled by the British Empire, the East India Trading Company and the Spanish Empire, with pirates representing freedom from the ruling powers.",
+                          "itemCount": 5,
+                          "url": "https://www.themoviedb.org/collection/295",
+                          "listName": "Pirates of the Caribbean Collection",
+                          "listId": "295"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "02A9ACB3-1257-4E86-ABFF-0F4A234B23D1",
+              "title": "Transformers",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Collections/Transformers.jpg",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::tmdb.collection.8650",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "tmdb.collection.8650",
+                        "type": "movie",
+                        "name": "Transformers Collection",
+                        "source": "tmdb",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "metadata": {
+                          "description": "The Transformers series follows the continuing battle between the Autobots and the Decepticons and ultimately, the triumph of good over evil. This collection includes theatrically released films of the Transformers saga only.",
+                          "itemCount": 5,
+                          "url": "https://www.themoviedb.org/collection/8650",
+                          "listName": "Transformers Collection",
+                          "listId": "8650"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "CAF4E521-DE6F-420C-8080-6E9905311CD5",
+              "title": "Star Wars",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://github.com/Azodath/Fusion/raw/refs/heads/main/Collections/Star%20Wars.jpg",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::tmdb.collection.10",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "tmdb.collection.10",
+                        "type": "movie",
+                        "name": "Star Wars Collection",
+                        "source": "tmdb",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "metadata": {
+                          "description": "An epic space-opera theatrical film series, which depicts the adventures of various characters \"a long time ago in a galaxy far, far away….\"",
+                          "itemCount": 9,
+                          "url": "https://www.themoviedb.org/collection/10",
+                          "listName": "Star Wars Collection",
+                          "listId": "10"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "id": "6F4C7DC4-219C-4094-A132-B49DA4C14A38",
+              "title": "Godfather",
+              "hideTitle": false,
+              "imageAspect": "wide",
+              "imageURL": "https://raw.githubusercontent.com/Azodath/Fusion/refs/heads/main/Collections/The%20Godfather.jpg",
+              "dataSources": [
+                {
+                  "kind": "addonCatalog",
+                  "payload": {
+                    "addonId": "YOUR_AIOMETADATA",
+                    "catalogId": "movie::tmdb.collection.230",
+                    "type": "movie",
+                    "genre": "None",
+                    "aiometadata": {
+                      "version": 1,
+                      "catalog": {
+                        "id": "tmdb.collection.230",
+                        "type": "movie",
+                        "name": "The Godfather Collection",
+                        "source": "tmdb",
+                        "enabled": true,
+                        "showInHome": false,
+                        "cacheTTL": 300,
+                        "metadata": {
+                          "description": "Francis Ford Coppola’s trilogy films about the everyday life of a New York mafia family. With its star-studded cast these films would go down in history as some of the greatest Hollywood has ever produced.",
+                          "itemCount": 3,
+                          "url": "https://www.themoviedb.org/collection/230",
+                          "listName": "The Godfather Collection",
+                          "listId": "230"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
