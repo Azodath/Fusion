@@ -1,0 +1,1282 @@
+[
+  {
+    "id" : "15704970-B7E9-4B8D-B6E4-F3F774DF2065",
+    "isEnabled" : true,
+    "sortOrder" : 0,
+    "source" : {
+      "continueWatching" : {
+
+      }
+    },
+    "style" : "row_classic",
+    "title" : "Continue Watching"
+  },
+  {
+    "id" : "37428F69-EC77-42C7-B6F7-4C6247A92A24",
+    "isEnabled" : true,
+    "sortOrder" : 1,
+    "source" : {
+      "upcoming" : {
+
+      }
+    },
+    "style" : "row_classic",
+    "title" : "Upcoming"
+  },
+  {
+    "id" : "F0AA019A-3270-4616-A7A8-700DC6610DFE",
+    "isEnabled" : true,
+    "sortOrder" : 2,
+    "source" : {
+      "group" : {
+        "_0" : {
+          "contentSources" : [
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Streaming%20Services\/Netflix.jpg",
+              "hideTitle" : false,
+              "id" : "A4C95E61-13AD-450B-9AB0-42BC16BED28D",
+              "sources" : [
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 55,
+                      "listId" : 144621,
+                      "listName" : "Top Netflix Movies",
+                      "mediatype" : "movie",
+                      "username" : "azodath"
+                    }
+                  }
+                },
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 42,
+                      "listId" : 144622,
+                      "listName" : "Top Netflix Shows",
+                      "mediatype" : "show",
+                      "username" : "azodath"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "Netflix"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Streaming%20Services\/Prime%20Video.jpg",
+              "hideTitle" : false,
+              "id" : "1A6C2139-D307-49E5-B35B-B453C66D0E53",
+              "sources" : [
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 59,
+                      "listId" : 144623,
+                      "listName" : "Top Amazon Prime Movies",
+                      "mediatype" : "movie",
+                      "username" : "azodath"
+                    }
+                  }
+                },
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 39,
+                      "listId" : 144624,
+                      "listName" : "Top Amazon Prime Shows",
+                      "mediatype" : "show",
+                      "username" : "azodath"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "Prime Video"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Streaming%20Services\/Apple%20TV.jpg",
+              "hideTitle" : false,
+              "id" : "6CE2D1CB-5FC0-48F9-981F-EABB4C3AE96C",
+              "sources" : [
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 50,
+                      "listId" : 144625,
+                      "listName" : "Top Apple TV Movies",
+                      "mediatype" : "movie",
+                      "username" : "azodath"
+                    }
+                  }
+                },
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 50,
+                      "listId" : 144626,
+                      "listName" : "Top Apple TV Shows",
+                      "mediatype" : "show",
+                      "username" : "azodath"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "Apple TV"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Streaming%20Services\/Disney%2B.jpg",
+              "hideTitle" : false,
+              "id" : "0B8984B0-A92A-40D5-AE65-835E60D0DC10",
+              "sources" : [
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 55,
+                      "listId" : 144627,
+                      "listName" : "Top Disney+ Movies",
+                      "mediatype" : "movie",
+                      "username" : "azodath"
+                    }
+                  }
+                },
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 42,
+                      "listId" : 144628,
+                      "listName" : "Top Disney+ Shows",
+                      "mediatype" : "show",
+                      "username" : "azodath"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "Disney+"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Streaming%20Services\/HBO%20Max.png",
+              "hideTitle" : false,
+              "id" : "F2377099-4584-4605-B57F-D68F0E4673A0",
+              "sources" : [
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 61,
+                      "listId" : 144629,
+                      "listName" : "Top HBO Max Movies",
+                      "mediatype" : "movie",
+                      "username" : "azodath"
+                    }
+                  }
+                },
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 36,
+                      "listId" : 144630,
+                      "listName" : "Top HBO Max Shows",
+                      "mediatype" : "show",
+                      "username" : "azodath"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "HBO Max"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Streaming%20Services\/Paramount%2B.jpg",
+              "hideTitle" : false,
+              "id" : "19B3AEFB-2C42-4104-BDB7-AC39F25FCC9A",
+              "sources" : [
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 63,
+                      "listId" : 144631,
+                      "listName" : "Top Paramount+ Movies",
+                      "mediatype" : "movie",
+                      "username" : "azodath"
+                    }
+                  }
+                },
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 30,
+                      "listId" : 144632,
+                      "listName" : "Top Paramount+ Shows",
+                      "mediatype" : "show",
+                      "username" : "azodath"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "Paramount+"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Streaming%20Services\/Hulu.jpg",
+              "hideTitle" : false,
+              "id" : "E9EB08F4-A981-487E-85F8-431CEB2CC08E",
+              "sources" : [
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 22,
+                      "listId" : 144633,
+                      "listName" : "Top Hulu Movies",
+                      "mediatype" : "movie",
+                      "username" : "azodath"
+                    }
+                  }
+                },
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 12,
+                      "listId" : 144635,
+                      "listName" : "Top Hulu Shows",
+                      "mediatype" : "show",
+                      "username" : "azodath"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "Hulu"
+            }
+          ],
+          "coverFillsHero" : true,
+          "hideTitle" : false,
+          "tileShape" : "wide",
+          "title" : "Streaming Services"
+        }
+      }
+    },
+    "style" : "collections_row",
+    "title" : "Streaming Services"
+  },
+  {
+    "id" : "69935515-289A-4771-9B48-D13E751F429D",
+    "isEnabled" : true,
+    "sortOrder" : 3,
+    "source" : {
+      "mdbListList" : {
+        "_0" : {
+          "itemCount" : 149,
+          "listId" : 144609,
+          "listName" : "Trending Movies",
+          "mediatype" : "movie",
+          "username" : "azodath"
+        }
+      }
+    },
+    "style" : "row_classic",
+    "title" : "Trending Movies"
+  },
+  {
+    "id" : "D1F06EE3-F9B8-453C-9E1E-CCA0D022713F",
+    "isEnabled" : true,
+    "sortOrder" : 4,
+    "source" : {
+      "mdbListList" : {
+        "_0" : {
+          "itemCount" : 249,
+          "listId" : 144610,
+          "listName" : "Trending Shows",
+          "mediatype" : "show",
+          "username" : "azodath"
+        }
+      }
+    },
+    "style" : "row_classic",
+    "title" : "Trending Shows"
+  },
+  {
+    "id" : "983ADBD1-C78D-43DD-B862-74EB057E3060",
+    "isEnabled" : true,
+    "sortOrder" : 5,
+    "source" : {
+      "group" : {
+        "_0" : {
+          "contentSources" : [
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Genres\/Action.png",
+              "hideTitle" : false,
+              "id" : "3F45CD4A-8092-4DB9-BEBF-D86EEE1C1FF0",
+              "sources" : [
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 500,
+                      "listId" : 144640,
+                      "listName" : "Popular Action Movies",
+                      "mediatype" : "movie",
+                      "username" : "azodath"
+                    }
+                  }
+                },
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 500,
+                      "listId" : 144643,
+                      "listName" : "Popular Action Shows",
+                      "mediatype" : "show",
+                      "username" : "azodath"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "Action"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Genres\/Thriller.png",
+              "hideTitle" : false,
+              "id" : "B5FA126C-BCF3-454A-9535-A06D08BC0774",
+              "sources" : [
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 500,
+                      "listId" : 144644,
+                      "listName" : "Popular Thriller Movies",
+                      "mediatype" : "movie",
+                      "username" : "azodath"
+                    }
+                  }
+                },
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 497,
+                      "listId" : 144645,
+                      "listName" : "Popular Thriller Shows",
+                      "mediatype" : "show",
+                      "username" : "azodath"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "Thriller"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Genres\/Sci-Fi.png",
+              "hideTitle" : false,
+              "id" : "50196166-DF7C-4994-8A63-82BB077632F4",
+              "sources" : [
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 500,
+                      "listId" : 144646,
+                      "listName" : "Popular Sci-Fi Movies",
+                      "mediatype" : "movie",
+                      "username" : "azodath"
+                    }
+                  }
+                },
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 500,
+                      "listId" : 144647,
+                      "listName" : "Popular Sci-Fi Shows",
+                      "mediatype" : "show",
+                      "username" : "azodath"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "Sci-Fi"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Genres\/Fantasy.png",
+              "hideTitle" : false,
+              "id" : "11130808-2065-4DF8-ABD1-FC2E22F7B8C1",
+              "sources" : [
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 500,
+                      "listId" : 145739,
+                      "listName" : "Popular Fantasy Movies",
+                      "mediatype" : "movie",
+                      "username" : "azodath"
+                    }
+                  }
+                },
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 393,
+                      "listId" : 145740,
+                      "listName" : "Popular Fantasy Shows",
+                      "mediatype" : "show",
+                      "username" : "azodath"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "Fantasy"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Genres\/Comedy.png",
+              "hideTitle" : false,
+              "id" : "C0F3F6C0-4545-4973-80F7-51F4FA55D309",
+              "sources" : [
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 500,
+                      "listId" : 144648,
+                      "listName" : "Popular Comedy Movies",
+                      "mediatype" : "movie",
+                      "username" : "azodath"
+                    }
+                  }
+                },
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 500,
+                      "listId" : 144649,
+                      "listName" : "Popular Comedy Shows",
+                      "mediatype" : "show",
+                      "username" : "azodath"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "Comedy"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Genres\/Drama.png",
+              "hideTitle" : false,
+              "id" : "418FD9A9-2B1F-432B-930D-0E24E3FEE385",
+              "sources" : [
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 500,
+                      "listId" : 144650,
+                      "listName" : "Popular Drama Movies",
+                      "mediatype" : "movie",
+                      "username" : "azodath"
+                    }
+                  }
+                },
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 500,
+                      "listId" : 144652,
+                      "listName" : "Popular Drama Shows",
+                      "mediatype" : "show",
+                      "username" : "azodath"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "Drama"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Genres\/Romance.png",
+              "hideTitle" : false,
+              "id" : "8C1A8273-ABEB-4322-B1B8-ABB0FCE7F5FA",
+              "sources" : [
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 500,
+                      "listId" : 144654,
+                      "listName" : "Popular Romance Movies",
+                      "mediatype" : "movie",
+                      "username" : "azodath"
+                    }
+                  }
+                },
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 434,
+                      "listId" : 144660,
+                      "listName" : "Popular Romance Shows",
+                      "mediatype" : "show",
+                      "username" : "azodath"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "Romance"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Genres\/Horror.png",
+              "hideTitle" : false,
+              "id" : "D532F43C-3420-4F90-9ACB-DC801BF8D31F",
+              "sources" : [
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 500,
+                      "listId" : 144669,
+                      "listName" : "Popular Horror Movies",
+                      "mediatype" : "movie",
+                      "username" : "azodath"
+                    }
+                  }
+                },
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 261,
+                      "listId" : 144670,
+                      "listName" : "Popular Horror Shows",
+                      "mediatype" : "show",
+                      "username" : "azodath"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "Horror"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Genres\/War%20Stories.png",
+              "hideTitle" : false,
+              "id" : "A73EAF87-AC61-4165-8F4B-7A4F0D9457CD",
+              "sources" : [
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 500,
+                      "listId" : 144886,
+                      "listName" : "Popular War Movies",
+                      "mediatype" : "movie",
+                      "username" : "azodath"
+                    }
+                  }
+                },
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 202,
+                      "listId" : 144888,
+                      "listName" : "Popular War Shows",
+                      "mediatype" : "show",
+                      "username" : "azodath"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "War Stories"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Genres\/Westerns.png",
+              "hideTitle" : false,
+              "id" : "6807C1FB-CF76-4D33-9F15-10622A178363",
+              "sources" : [
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 493,
+                      "listId" : 144897,
+                      "listName" : "Popular Western Movies",
+                      "mediatype" : "movie",
+                      "username" : "azodath"
+                    }
+                  }
+                },
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 92,
+                      "listId" : 144901,
+                      "listName" : "Popular Western Shows",
+                      "mediatype" : "show",
+                      "username" : "azodath"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "Westerns"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Genres\/Anime.png",
+              "hideTitle" : false,
+              "id" : "6B9E635D-17DA-47BB-B1B9-1EAD6FC5C711",
+              "sources" : [
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 200,
+                      "listId" : 145346,
+                      "listName" : "Popular Anime Movies",
+                      "mediatype" : "movie",
+                      "username" : "azodath"
+                    }
+                  }
+                },
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 200,
+                      "listId" : 145347,
+                      "listName" : "Popular Anime Shows",
+                      "mediatype" : "show",
+                      "username" : "azodath"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "Anime"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Genres\/Animation.png",
+              "hideTitle" : false,
+              "id" : "EF30BE83-4B34-4784-A964-EA2E2FA45426",
+              "sources" : [
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 500,
+                      "listId" : 144663,
+                      "listName" : "Popular Animated Movies",
+                      "mediatype" : "movie",
+                      "username" : "azodath"
+                    }
+                  }
+                },
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 500,
+                      "listId" : 144664,
+                      "listName" : "Popular Animated Shows",
+                      "mediatype" : "show",
+                      "username" : "azodath"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "Animation"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Genres\/K-Drama.png",
+              "hideTitle" : false,
+              "id" : "E968F232-D3F8-4B43-B7D1-4FDF6E0B0E5A",
+              "sources" : [
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 408,
+                      "listId" : 166857,
+                      "listName" : "Popular K-Drama Movies",
+                      "mediatype" : "movie",
+                      "username" : "azodath"
+                    }
+                  }
+                },
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 465,
+                      "listId" : 166858,
+                      "listName" : "Popular K-Drama Shows",
+                      "mediatype" : "show",
+                      "username" : "azodath"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "K-Drama"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Genres\/Documentary.png",
+              "hideTitle" : false,
+              "id" : "6BD5254D-F4E1-4FD6-80CD-3E2EECA15934",
+              "sources" : [
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 500,
+                      "listId" : 144665,
+                      "listName" : "Popular Documentary Movies",
+                      "mediatype" : "movie",
+                      "username" : "azodath"
+                    }
+                  }
+                },
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 500,
+                      "listId" : 144667,
+                      "listName" : "Popular Documentary Shows",
+                      "mediatype" : "show",
+                      "username" : "azodath"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "Documentary"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Genres\/Reality.png",
+              "hideTitle" : false,
+              "id" : "1203C6AD-C71C-44B1-B6BA-AC6749B2BA04",
+              "sources" : [
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 500,
+                      "listId" : 144672,
+                      "listName" : "Popular Reality Shows",
+                      "mediatype" : "show",
+                      "username" : "azodath"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "Reality"
+            }
+          ],
+          "coverFillsHero" : true,
+          "hideTitle" : false,
+          "tileShape" : "wide",
+          "title" : "Genres"
+        }
+      }
+    },
+    "style" : "collections_row",
+    "title" : "Genres"
+  },
+  {
+    "id" : "0EAE5531-A589-4F43-A5FA-34FF2B16FD4C",
+    "isEnabled" : true,
+    "sortOrder" : 6,
+    "source" : {
+      "group" : {
+        "_0" : {
+          "contentSources" : [
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Decades%202\/2020s.jpg",
+              "hideTitle" : false,
+              "id" : "CF32AAFC-7A4A-451B-81E4-4E1B2E1A9C57",
+              "sources" : [
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 255,
+                      "listId" : 144682,
+                      "listName" : "Popular 2020s Movies",
+                      "mediatype" : "movie",
+                      "username" : "azodath"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "2020s"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Decades%202\/2010s.jpg",
+              "hideTitle" : false,
+              "id" : "12597565-5A86-42FA-98D8-4435BA5D9003",
+              "sources" : [
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 611,
+                      "listId" : 144681,
+                      "listName" : "Popular 2010s Movies",
+                      "mediatype" : "movie",
+                      "username" : "azodath"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "2010s"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Decades%202\/2000s.jpg",
+              "hideTitle" : false,
+              "id" : "53A321FA-0ABC-429F-A0C7-962FE4DCE986",
+              "sources" : [
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 531,
+                      "listId" : 144680,
+                      "listName" : "Popular 2000s Movies",
+                      "mediatype" : "movie",
+                      "username" : "azodath"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "2000s"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Decades%202\/1990s.jpg",
+              "hideTitle" : false,
+              "id" : "8FCD272A-8795-4ED6-A002-9C6AFF9EEA15",
+              "sources" : [
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 375,
+                      "listId" : 144679,
+                      "listName" : "Popular 1990s Movies",
+                      "mediatype" : "movie",
+                      "username" : "azodath"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "1990s"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Decades%202\/1980s.jpg",
+              "hideTitle" : false,
+              "id" : "54850C9B-D15D-4BFB-9EBC-7ED0E80D4249",
+              "sources" : [
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 235,
+                      "listId" : 144677,
+                      "listName" : "Popular 1980s Movies",
+                      "mediatype" : "movie",
+                      "username" : "azodath"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "1980s"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Decades%202\/1970s.png",
+              "hideTitle" : false,
+              "id" : "69BDCA11-B81B-4BC2-98E2-69CA3E73B711",
+              "sources" : [
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 176,
+                      "listId" : 144676,
+                      "listName" : "Popular 1970s Movies",
+                      "mediatype" : "movie",
+                      "username" : "azodath"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "1970s"
+            }
+          ],
+          "coverFillsHero" : true,
+          "hideTitle" : false,
+          "tileShape" : "wide",
+          "title" : "Decades"
+        }
+      }
+    },
+    "style" : "collections_row",
+    "title" : "Decades"
+  },
+  {
+    "id" : "3BC5C278-1DEB-478E-9348-2C9AC78F64C9",
+    "isEnabled" : true,
+    "sortOrder" : 7,
+    "source" : {
+      "mdbListList" : {
+        "_0" : {
+          "itemCount" : 250,
+          "listId" : 146218,
+          "listName" : "Most Popular Movies",
+          "mediatype" : "movie",
+          "username" : "azodath"
+        }
+      }
+    },
+    "style" : "row_classic",
+    "title" : "Most Popular Movies"
+  },
+  {
+    "id" : "661C5E1A-7D1D-4B74-8A41-A6CF21DBAD65",
+    "isEnabled" : true,
+    "sortOrder" : 8,
+    "source" : {
+      "mdbListList" : {
+        "_0" : {
+          "itemCount" : 250,
+          "listId" : 146220,
+          "listName" : "Most Popular Shows",
+          "mediatype" : "show",
+          "username" : "azodath"
+        }
+      }
+    },
+    "style" : "row_classic",
+    "title" : "Most Popular Shows"
+  },
+  {
+    "id" : "8E2F9918-0D4A-4D1A-BF21-901B740EA785",
+    "isEnabled" : true,
+    "sortOrder" : 9,
+    "source" : {
+      "group" : {
+        "_0" : {
+          "contentSources" : [
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/IMDB\/IMDB%20TMovies.jpg",
+              "hideTitle" : false,
+              "id" : "475DE060-9612-4604-BFAF-6107EAE9D12C",
+              "sources" : [
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 250,
+                      "listId" : 144616,
+                      "listName" : "IMDb: Top Rated Movies",
+                      "mediatype" : "movie",
+                      "username" : "azodath"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "IMDb: Top Rated Movies"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/IMDB\/IMDB%20TShows.jpg",
+              "hideTitle" : false,
+              "id" : "6E13743D-59A9-4C79-8BA1-57930F3FF2FA",
+              "sources" : [
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 243,
+                      "listId" : 144617,
+                      "listName" : "IMDb: Top Rated Shows",
+                      "mediatype" : "show",
+                      "username" : "azodath"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "IMDb: Top Rated Shows"
+            },
+            {
+              "coverImageURL" : "https:\/\/github.com\/Azodath\/Fusion\/raw\/refs\/heads\/main\/Collections\/Marvel.png",
+              "hideTitle" : false,
+              "id" : "5898FED2-4877-40B6-9F97-30618B0BB9FE",
+              "sources" : [
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 40,
+                      "listId" : 144684,
+                      "listName" : "MCU Movies",
+                      "mediatype" : "movie",
+                      "username" : "azodath"
+                    }
+                  }
+                },
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 28,
+                      "listId" : 144685,
+                      "listName" : "MCU Shows",
+                      "mediatype" : "show",
+                      "username" : "azodath"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "Marvel"
+            },
+            {
+              "coverImageURL" : "https:\/\/github.com\/Azodath\/Fusion\/raw\/refs\/heads\/main\/Collections\/The%20Lord%20of%20the%20Rings.jpg",
+              "hideTitle" : false,
+              "id" : "BDC4CD3B-D8CB-46D0-B8A2-4D304CAEEDB1",
+              "sources" : [
+                {
+                  "traktList" : {
+                    "_0" : {
+                      "isPublic" : true,
+                      "itemCount" : 0,
+                      "listId" : "23",
+                      "listName" : "The Lord of the Rings Collection",
+                      "listSlug" : "the-lord-of-the-rings-collection",
+                      "username" : "Trakt"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "The Lord of the Rings"
+            },
+            {
+              "coverImageURL" : "https:\/\/github.com\/Azodath\/Fusion\/raw\/refs\/heads\/main\/Collections\/The%20Hobbit.jpg",
+              "hideTitle" : false,
+              "id" : "081899A5-E6D7-475F-B035-C45F5A797304",
+              "sources" : [
+                {
+                  "traktList" : {
+                    "_0" : {
+                      "isPublic" : true,
+                      "itemCount" : 0,
+                      "listId" : "1384",
+                      "listName" : "The Hobbit Collection",
+                      "listSlug" : "the-hobbit-collection",
+                      "username" : "Trakt"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "The Hobbit"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Collections\/Back%20to%20the%20Future.jpg",
+              "hideTitle" : false,
+              "id" : "DA324C59-2738-493B-B770-1D733CE1B6DB",
+              "sources" : [
+                {
+                  "traktList" : {
+                    "_0" : {
+                      "isPublic" : true,
+                      "itemCount" : 0,
+                      "listId" : "21",
+                      "listName" : "Back to the Future Collection",
+                      "listSlug" : "back-to-the-future-collection",
+                      "username" : "Trakt"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "Back to the Future"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Collections\/The%20Dark%20Knight.jpg",
+              "hideTitle" : false,
+              "id" : "F7AD8EE6-F65A-4412-A78A-70DE10FC4394",
+              "sources" : [
+                {
+                  "traktList" : {
+                    "_0" : {
+                      "isPublic" : true,
+                      "itemCount" : 0,
+                      "listId" : "29",
+                      "listName" : "The Dark Knight Collection",
+                      "listSlug" : "the-dark-knight-collection",
+                      "username" : "Trakt"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "The Dark Knight"
+            },
+            {
+              "coverImageURL" : "https:\/\/github.com\/Azodath\/Fusion\/raw\/refs\/heads\/main\/Collections\/Harry%20Potter.jpg",
+              "hideTitle" : false,
+              "id" : "FB7CD3EF-DD5C-4F8D-8AE3-65E1649AF0B8",
+              "sources" : [
+                {
+                  "traktList" : {
+                    "_0" : {
+                      "isPublic" : true,
+                      "itemCount" : 0,
+                      "listId" : "84",
+                      "listName" : "Harry Potter Collection",
+                      "listSlug" : "harry-potter-collection",
+                      "username" : "Trakt"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "Harry Potter"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Collections\/The%20Mummy.jpg",
+              "hideTitle" : false,
+              "id" : "E94B84BA-214F-40FC-8FD1-F2A37235AB55",
+              "sources" : [
+                {
+                  "traktList" : {
+                    "_0" : {
+                      "isPublic" : true,
+                      "itemCount" : 0,
+                      "listId" : "71",
+                      "listName" : "The Mummy Collection",
+                      "listSlug" : "the-mummy-collection",
+                      "username" : "Trakt"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "The Mummy"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Collections\/Pirates%20of%20the%20Caribbean.jpg",
+              "hideTitle" : false,
+              "id" : "4ADEAD50-C076-4DBF-8B59-3043F2B8D709",
+              "sources" : [
+                {
+                  "traktList" : {
+                    "_0" : {
+                      "isPublic" : true,
+                      "itemCount" : 0,
+                      "listId" : "10",
+                      "listName" : "Pirates of the Caribbean Collection",
+                      "listSlug" : "pirates-of-the-caribbean-collection",
+                      "username" : "Trakt"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "Pirates of the Caribbean"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Collections\/Transformers.jpg",
+              "hideTitle" : false,
+              "id" : "73960A1A-6AA9-4BAC-94FD-F2B3F05D8141",
+              "sources" : [
+                {
+                  "traktList" : {
+                    "_0" : {
+                      "isPublic" : true,
+                      "itemCount" : 0,
+                      "listId" : "176",
+                      "listName" : "Transformers Collection",
+                      "listSlug" : "transformers-collection",
+                      "username" : "Trakt"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "Transformers"
+            },
+            {
+              "coverImageURL" : "https:\/\/github.com\/Azodath\/Fusion\/raw\/refs\/heads\/main\/Collections\/Star%20Wars.jpg",
+              "hideTitle" : false,
+              "id" : "97F7288D-EA62-49C2-A720-6966EE02D57D",
+              "sources" : [
+                {
+                  "traktList" : {
+                    "_0" : {
+                      "isPublic" : true,
+                      "itemCount" : 0,
+                      "listId" : "6",
+                      "listName" : "Star Wars Collection",
+                      "listSlug" : "star-wars-collection",
+                      "username" : "Trakt"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "Star Wars"
+            },
+            {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Collections\/The%20Godfather.jpg",
+              "hideTitle" : false,
+              "id" : "A0567736-2C48-4D68-8920-C789294D0C16",
+              "sources" : [
+                {
+                  "traktList" : {
+                    "_0" : {
+                      "isPublic" : true,
+                      "itemCount" : 0,
+                      "listId" : "38",
+                      "listName" : "The Godfather Collection",
+                      "listSlug" : "the-godfather-collection",
+                      "username" : "Trakt"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "Godfather"
+            }
+          ],
+          "coverFillsHero" : true,
+          "hideTitle" : false,
+          "tileShape" : "wide",
+          "title" : "Collections"
+        }
+      }
+    },
+    "style" : "collections_row",
+    "title" : "Collections"
+  },
+  {
+    "id" : "2084F760-D180-4538-AF13-4191C5D50488",
+    "isEnabled" : true,
+    "sortOrder" : 10,
+    "source" : {
+      "mdbListList" : {
+        "_0" : {
+          "itemCount" : 500,
+          "listId" : 146182,
+          "listName" : "Latest Movies",
+          "mediatype" : "movie",
+          "username" : "azodath"
+        }
+      }
+    },
+    "style" : "row_classic",
+    "title" : "Latest Movies"
+  },
+  {
+    "id" : "01C5E410-EF2C-4835-8A0A-1AC5AF4FC989",
+    "isEnabled" : true,
+    "sortOrder" : 11,
+    "source" : {
+      "mdbListList" : {
+        "_0" : {
+          "itemCount" : 500,
+          "listId" : 145621,
+          "listName" : "Latest Shows",
+          "mediatype" : "show",
+          "username" : "azodath"
+        }
+      }
+    },
+    "style" : "row_classic",
+    "title" : "Latest Shows"
+  }
+]
