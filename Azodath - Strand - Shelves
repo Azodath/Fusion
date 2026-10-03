@@ -992,6 +992,26 @@
               "title" : "IMDb: Top Rated Shows"
             },
             {
+              "coverImageURL" : "https:\/\/raw.githubusercontent.com\/Azodath\/Fusion\/refs\/heads\/main\/Letterboxd\/Letterboxd%20Most%20Fans.PNG",
+              "hideTitle" : false,
+              "id" : "0CB2B10A-39F2-42A8-ACBA-69D0106D7EEE",
+              "sources" : [
+                {
+                  "mdbListList" : {
+                    "_0" : {
+                      "itemCount" : 250,
+                      "listId" : 221888,
+                      "listName" : "Letterboxd: Movies with the Most Fans",
+                      "mediatype" : "movie",
+                      "username" : "azodath"
+                    }
+                  }
+                }
+              ],
+              "tileShape" : "wide",
+              "title" : "Letterboxd: Movies with the Most Fans"
+            },
+            {
               "coverImageURL" : "https:\/\/github.com\/Azodath\/Fusion\/raw\/refs\/heads\/main\/Collections\/Marvel.png",
               "hideTitle" : false,
               "id" : "5898FED2-4877-40B6-9F97-30618B0BB9FE",
